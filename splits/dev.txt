@@ -1,0 +1,100 @@
+301	adjudicated	4	Reigns in the wet. 
+302	adjudicated	3	Gather ‘Round the Good Stuff.
+303	adjudicated	3	You print what you want when you want it.
+304	adjudicated	4	Welcome to the top shelf.
+305	adjudicated	4	The fastest way.
+306	adjudicated	4	The all-in-one entertainment system.  
+307	adjudicated	4	A relentless focus on you.
+308	adjudicated	3	Maybe She’s Born With It, Maybe It’s Maybelline.
+309	adjudicated	4	Performance with comfort.
+310	adjudicated	4	To make that tough job easier you deserve.
+311	adjudicated	2	Metabo. Work. Don't play.
+312	adjudicated	4	Always two wheels ahead.
+313	adjudicated	3	Avoid the in crowd.
+314	adjudicated	3	Choose Yours Now.
+315	adjudicated	2	Lose yourself in the dark. 
+316	adjudicated	4	It starts with you.
+317	adjudicated	3	Give me Mothercare.
+318	adjudicated	1	Our name is Mudd.
+319	adjudicated	2	my keds.
+320	adjudicated	2	Don't leave home without it.
+321	adjudicated	1	There are two motivations in sports. Which is yours? For Love or Money? 
+322	adjudicated	1	Britain's favourite green tea.
+323	adjudicated	3	Bake the Very Best.
+324	adjudicated	3	It's a miracle but we've made it.
+325	adjudicated	3	Never Knowingly Undersold.
+326	adjudicated	4	The perfect gifts. The perfect prices.
+327	adjudicated	5	Making Every Mission Possible.
+328	adjudicated	3	The One and Only.
+329	adjudicated	2	You can't top the copper top.
+330	adjudicated	3	A cigarette that may present less risk of cancer, chronic bronchitis and possibly emphysema
+331	adjudicated	4	Beer that is fit to be seen again.
+332	adjudicated	2	Douwe Egberts. Make it a real good time.
+333	adjudicated	4	Bigger, better, more.
+334	adjudicated	5	Nothing runs like a Deere.
+335	adjudicated	4	Now Everyone Can Fly.
+336	adjudicated	4	Its our business to know your business.
+337	adjudicated	3	Now You're Flying Smart.
+338	adjudicated	3	The brand trusted around the world.
+339	adjudicated	5	Omega – Exact time for life
+340	adjudicated	4	Other potato chips just don't stack up.
+341	adjudicated	3	One client at a time.
+342	adjudicated	3	HB. Two letters spell Ireland's favourite ice cream.
+343	adjudicated	4	One size does not fit all. To each her own.
+344	adjudicated	3	Only a Few Can Tell.
+345	adjudicated	3	Take it Easy.
+346	adjudicated	3	Get more out of plastic.
+347	adjudicated	4	Only Smarties Have the Answer.
+348	adjudicated	4	Don’t get mad! Get Glad!
+349	adjudicated	3	The power toothbrush more dentists use.
+350	adjudicated	3	Ore-Ida! It’s all-righta!
+351	adjudicated	4	Quality never goes out of style.
+352	adjudicated	3	The freshest ice cream on earth.
+353	adjudicated	3	Our business is the American dream.
+354	adjudicated	2	Is it as good as Bushells?
+355	adjudicated	5	ABSOLUT PERFECTION. In An Absolut World.
+356	adjudicated	4	Guinness is Good for You.
+357	adjudicated	3	Helping investors help themselves
+358	adjudicated	4	Love that Chicken!
+359	adjudicated	3	Passion for the road.
+360	adjudicated	3	Past meets present.
+361	adjudicated	4	CONSULTING. TECHNOLOGY. OUTSOURCING.
+362	adjudicated	5	Performance Is In Our Sole.
+363	adjudicated	3	Perrier. The ultimate refreshment.
+364	adjudicated	4	Feel the creative energy.
+365	adjudicated	2	Piggly Wiggly. Feeds your life.
+366	adjudicated	3	When you're choosing cheddar, make it Pilgrims Choice.
+367	adjudicated	4	Pure pleasure…
+368	adjudicated	4	Everyone’s taking sides.
+369	adjudicated	3	Porter-Cable. Redefining performance.
+370	adjudicated	4	Power, beauty and soul.
+371	adjudicated	3	Powered by Intellect, Driven by Values.
+372	adjudicated	3	Probably the Best Beer in the World.
+373	adjudicated	3	Accuracy to seconds a month.
+374	adjudicated	3	Pure chocolate. Pure emotion.
+375	adjudicated	3	Pure clean, pure Ivory.
+376	adjudicated	3	Put more flavour in your life.
+377	adjudicated	2	Let us quote you happy.
+378	adjudicated	3	Real Friends. Real Bourbon.
+379	adjudicated	3	Redefining standards.
+380	adjudicated	3	Tastes so good, you won't have to pretend anymore.
+381	adjudicated	2	Decide for yourself.
+382	adjudicated	3	Relax, it’s Holiday Inn.
+383	adjudicated	3	Ride with Pride.
+384	adjudicated	2	Right of Common Man.
+385	adjudicated	4	In Search of Incredible. 
+386	adjudicated	3	Sapphire Inspired.
+387	adjudicated	1	Sar utha ke jiyo!
+388	adjudicated	3	It's a new morning. Brew some good.
+389	adjudicated	4	Performance, not promises.
+390	adjudicated	4	Excellence for Everyone.
+391	adjudicated	3	See what the future has in store.
+392	adjudicated	3	We have all the best stories.
+393	adjudicated	3	Let's Make Things Better.
+394	adjudicated	3	Share a Scoop. Share a Smile!
+395	adjudicated	4	Share moments. Share life.
+396	adjudicated	3	Share Photos. Make friends. It’s easy!
+397	adjudicated	5	Shoes designed to move you.
+398	adjudicated	2	Sincerely yours, Aeroflot
+399	adjudicated	3	Sit. Savour. 1664.
+400	adjudicated	3	We have the meats.

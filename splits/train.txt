@@ -1,0 +1,300 @@
+1	adjudicated	2	"It's the Tea you can really Taste"
+2	adjudicated	3	10 Years In Formula One The World Is Watching Us.
+3	adjudicated	4	100% juice for 100% kids.
+4	adjudicated	3	Thirst asks nothing more.
+5	adjudicated	2	 What's your flavor?
+6	adjudicated	3	A good meal out deserves a great ketchup.
+7	adjudicated	3	Where the food’s as good as the root beer.
+8	adjudicated	4	Refreshes the parts other beers cannot reach.
+9	adjudicated	2	The world's leading radial tyre. 
+10	adjudicated	5	A diamond is forever.
+11	adjudicated	5	Flavor like that, without the fat.
+12	adjudicated	3	A Matter of Good Taste.
+13	adjudicated	3	We're All Family Here
+14	adjudicated	4	Growing and protecting your wealth.
+15	adjudicated	2	From here, it's another world.
+16	adjudicated	4	The Celebrity treatment.
+17	adjudicated	2	Get the Abbey habit.
+18	adjudicated	1	No ordinary old timer
+19	adjudicated	2	Set it to the rhythm of your home.
+20	adjudicated	3	The national swimming suit.
+21	adjudicated	3	All play. No work.
+22	adjudicated	4	They’re magically delicious.
+23	adjudicated	3	Always Moving Forward.
+24	adjudicated	2	Real perfume for your car.
+25	adjudicated	3	America's most gifted whiskey.
+26	adjudicated	4	Made in the USA.
+27	adjudicated	3	"The Best Drink Created Worldwide"
+28	adjudicated	3	Have the life you want.
+29	adjudicated	2	Analytics for Digital World.
+30	adjudicated	4	More than just flying.
+31	adjudicated	2	Helpful Banking.
+32	adjudicated	5	If it isn't Popsicle, it's just an ice pop.
+33	adjudicated	3	The Finest Rum In The World.
+34	adjudicated	2	Aquafina. Purity guaranteed.
+35	adjudicated	2	Beauty in all its forms.
+36	adjudicated	3	Asia's boutique airline - Exclusive Service to Exotic Gems.
+37	adjudicated	2	Aflac insurance policies may help you with those expenses not covered by your major medical plan.
+38	adjudicated	3	Ask the man who owns one.
+39	adjudicated	4	Superior performance with a touch of elegance.
+40	adjudicated	5	Australians wouldn't give a XXXX for anything else.
+41	adjudicated	3	Avaya. The Power of We.
+42	adjudicated	2	We're number two. We try harder.
+43	adjudicated	1	The petillant table water.
+44	adjudicated	3	True professionals, true tools.
+45	adjudicated	3	The Pleasure Society.
+46	adjudicated	4	Think what we can do for you.
+47	adjudicated	3	Bankers to the Nation.
+48	adjudicated	3	Reach for Greatness.
+49	adjudicated	2	Bayer works wonders.
+50	adjudicated	2	Yours is here.
+51	adjudicated	4	The rarest of China's rare teas.
+52	adjudicated	3	For a pura mind and pura body.
+53	adjudicated	3	Racing since 1911.
+54	adjudicated	4	oney for every moment.
+55	adjudicated	4	Glides on and blends easily. Ophthalmologist tested. Smudger included. 
+56	adjudicated	5	Unmistakable German Craftsmanship
+57	adjudicated	3	Introducing the Design Library–Ideas, Inspiration, Style.
+58	adjudicated	3	Live a little.  
+59	adjudicated	4	Real town. Real cheese.
+60	adjudicated	4	The jeans that built America.
+61	adjudicated	2	The world's warmest welcome.
+62	adjudicated	3	Classic Italian cheese made in the USA.
+63	adjudicated	3	Because you love to sew.
+64	adjudicated	4	Travel in good company.
+65	adjudicated	4	Peace, love & ice cream.
+66	adjudicated	3	Creating your world.
+67	adjudicated	4	Fire on all cylinders. All day.
+68	adjudicated	3	Play. Laugh. Grow.
+69	adjudicated	2	Best under the Australian sky
+70	adjudicated	3	No one can eat just one.
+71	adjudicated	5	Hear The Radio That Woke Up An Entire Industry.
+72	adjudicated	5	Between love and madness lies obsession.
+73	adjudicated	3	Big Brands. Small Prices.
+74	adjudicated	3	Gets everywhere. Does everything!
+75	adjudicated	1	A silly millimeter longer.
+76	adjudicated	2	The Cream of Manchester.
+77	adjudicated	2	The new standard for the world.
+78	adjudicated	4	Keep your car fresh.
+79	adjudicated	4	The easy come easy go airport.
+80	adjudicated	5	First you drive it. Then it drives you.
+81	adjudicated	3	It deserves a little respect.
+82	adjudicated	3	A taste too good to waste.
+83	adjudicated	4	Performance. Power. Reliability.
+84	adjudicated	2	Building Networks for People.
+85	adjudicated	3	Buy it. Sell it. Love it.
+86	adjudicated	4	Everything we know is everything you taste.
+87	adjudicated	4	The Captain was here.
+88	adjudicated	5	All natural. No caffeine.
+89	adjudicated	2	This is the power of the network. Now.
+90	adjudicated	3	Chapman's. For the kid in all of us!
+91	adjudicated	2	D the most refreshing T.
+92	adjudicated	3	Choose pleasure.
+93	adjudicated	3	For comfortable hotel accomodations, we’re the best hotel value around.
+94	adjudicated	4	Stop numbing. Start repairing.
+95	adjudicated	4	Escape completely.
+96	adjudicated	3	Come To the Right Place.
+97	adjudicated	4	Hawaii Starts Here.
+98	adjudicated	5	The internet in your pocket.
+99	adjudicated	3	For the next generation of big businesses.
+100	adjudicated	3	Software Superior by design.
+101	adjudicated	4	Conceived at 14,000 feet. Works hard at any elevation.
+102	adjudicated	4	Connect with people for no reason at all.
+103	adjudicated	2	Your bus ride!
+104	adjudicated	2	Share your sounds, swap your SIMS. 
+105	adjudicated	1	The choice of COONoisseurs.
+106	adjudicated	3	Enjoy the ride, love the ending.
+107	adjudicated	2	Simple pleasure.
+108	adjudicated	3	Every bubble's passed its fizzical.
+109	adjudicated	3	20 Years of Driving Value and Beyond 
+110	adjudicated	3	Because I can.
+111	adjudicated	4	Cruising Italian style. That’s amore.
+112	adjudicated	2	Domestic. Not Domesticated.
+113	adjudicated	3	Treat yourself well. Everyday.
+114	adjudicated	3	Guaranteed tough tools.
+115	adjudicated	2	They're doers.
+116	adjudicated	4	When your money is safe everything is too.
+117	adjudicated	3	Every day is different.
+118	adjudicated	3	The holiday fleet.
+119	adjudicated	3	If they were any tougher - they'd rust.
+120	adjudicated	2	Fan food not fast food.
+121	adjudicated	4	Get the Picture.
+122	adjudicated	2	Search, Ads and Apps.
+123	adjudicated	5	Hair so healthy you shine.
+124	adjudicated	4	Enjoy The Go.
+125	adjudicated	3	Donat Mg. More than magnesium.
+126	adjudicated	4	And All Because The Lady Loves Milk Tray.
+127	adjudicated	5	Where the journey meets the destination.
+128	adjudicated	3	Brilliantly powerful. 
+129	adjudicated	3	The refreshing drink.
+130	adjudicated	4	The way car buying should be.
+131	adjudicated	4	America’s Best Warranty.
+132	adjudicated	2	Hand-built by robots.
+133	adjudicated	4	Driving tomorrow.
+134	adjudicated	3	Character in every bite.
+135	adjudicated	5	Good news for your sex life, bad news for beds.
+136	adjudicated	3	Superior performance. Amazing value. I want both.
+137	adjudicated	3	Empowering People.
+138	adjudicated	5	Off-road driving with an on-road feel. 
+139	adjudicated	3	The best value under the sun.
+140	adjudicated	3	THE lightweight outdoor footwear brand.
+141	adjudicated	3	Essentials for every rider.
+142	adjudicated	2	The worldwide welcome.
+143	adjudicated	3	Every cup tells a story.
+144	adjudicated	2	Everything is the same except the name.
+145	adjudicated	4	Approved by your body as a source of youth.
+146	adjudicated	4	Luxury, sports and style cast in exclusive cars.
+147	adjudicated	4	Where a man belongs.
+148	adjudicated	4	Where New Zealand goes for Christmas.
+149	adjudicated	3	Feel good protection.
+150	adjudicated	3	Feel the tingle longer
+151	adjudicated	5	Tastes so good, you won't believe it's decaffeinated.
+152	adjudicated	2	The second largest airline in the free world.
+153	adjudicated	2	Fly The Flag.
+154	adjudicated	3	Flying into the Future.
+155	adjudicated	3	Food you love.
+156	adjudicated	4	For all the places you’ll go.
+157	adjudicated	4	Helping you find profits in new places.
+158	adjudicated	2	The tastiest toy in the world. 
+159	adjudicated	3	Live life buy the book.
+160	adjudicated	3	For love of the car.
+161	adjudicated	2	For the few who know the difference.
+162	adjudicated	2	Ask Why?
+163	adjudicated	4	For the love of chocolate.
+164	adjudicated	2	For the way it's made.
+165	adjudicated	4	Wake up. It's Eight O'Clock.
+166	adjudicated	3	Future Outlook.
+167	adjudicated	4	France is in the air.
+168	adjudicated	2	Let the taste take you away. 
+169	adjudicated	5	Shoes you can live in.
+170	adjudicated	3	Carabao Dang: The Fighting Spirit.
+171	adjudicated	1	If you think all cruises are the same, it’s time to try Freestyle Cruising.
+172	adjudicated	2	The tea with more ahhhh.
+173	adjudicated	4	A language you both understand.
+174	adjudicated	3	From a Savory beginning to a Sweet ending.
+175	adjudicated	4	The simpler the better.
+176	adjudicated	2	Uninhibited. 
+177	adjudicated	2	Write your own High Seas adventure.
+178	adjudicated	2	Gas and Beyond.
+179	adjudicated	1	A positive a++itude
+180	adjudicated	4	Fashion is nothing without people.
+181	adjudicated	1	Spring is here. See what’s new for girls at gapkids.com
+182	adjudicated	3	Get the good stuff first.
+183	adjudicated	4	Single source of inspiration.
+184	adjudicated	4	Diesel. For Successful Living.
+185	adjudicated	5	The rewards of ownership.
+186	adjudicated	4	Reporting from around the world.
+187	adjudicated	2	Our Prime Interest Is You!
+188	adjudicated	5	Journeys are made by people you travel with.
+189	adjudicated	4	Good Humor. Return to the classics.
+190	adjudicated	1	Good, better, Paulaner.
+191	adjudicated	1	Go for a Gordon's.
+192	adjudicated	2	The New Jag Generation.
+193	adjudicated	5	For the whole family.
+194	adjudicated	2	Gotta get to Garts!
+195	adjudicated	4	Would you say no to another?
+196	adjudicated	2	Greggs. Ready when you are.
+197	adjudicated	4	Grip it. Tip it. Sip it.
+198	adjudicated	5	Trust the natives.
+199	adjudicated	1	Kenco Really Smooth. Everything we know about ground coffee in an instant.
+200	adjudicated	3	Made for movies. 
+201	adjudicated	2	Get a little extra help from the Halifax.
+202	adjudicated	4	Creating the right chemistry between you and the road.
+203	adjudicated	4	Fit you... Fit your job.
+204	adjudicated	2	Legend of American roads.  
+205	adjudicated	4	To each his burger.
+206	adjudicated	3	Gimme a break, Gimme a break, Break me off a piece of that Kit Kat Bar!, Break time, anytime. 
+207	adjudicated	4	Sometimes you’ve got to break the rules.
+208	adjudicated	1	It's at times like this that Metlife sets itself apart.
+209	adjudicated	2	What would the world be like without Nutella. 
+210	adjudicated	4	The Amber Nectar
+211	adjudicated	4	A breath of fresh air for your hair. 
+212	adjudicated	3	#1 selling anti-wrinkle cream.
+213	adjudicated	3	Exceptional phone. Exceptional price 
+214	adjudicated	2	New ideas at work.
+215	adjudicated	4	Preferred by 1 out of 1000 gin drinkers.
+216	adjudicated	3	Hennessy XO. The one and only original.
+217	adjudicated	2	Kids will do anything for the taste of Dairylea
+218	adjudicated	2	We know what it takes to be a Tiger.
+219	adjudicated	4	Quality, never compromised.
+220	adjudicated	3	Holds on to the past.
+221	adjudicated	3	How about a nice Hawaiian Punch?
+222	adjudicated	4	Finding newer, cleaner ways to power the world.
+223	adjudicated	3	Hungry for life. Thirsty for Naya.
+224	adjudicated	2	Brrr.Mmmm.
+225	adjudicated	2	The Six Dollar Burger.
+226	adjudicated	2	If you doubt yourself, wear something else!
+227	adjudicated	5	Answer the call to any adventure.
+228	adjudicated	5	Everything you always wanted in a beer. And less.  
+229	adjudicated	3	Making your house a home for over 100 years.
+230	adjudicated	4	Put Your Spin on It.
+231	adjudicated	2	Believe in 5ive. 
+232	adjudicated	3	Inspire the Next.
+233	adjudicated	3	Inspired Living.
+234	adjudicated	2	The utterly elegant cabriolet coupe Perfectly sculpted coupe with clamshell roof 
+235	adjudicated	5	For those finer moments.
+236	adjudicated	3	For all that's ahead.
+237	adjudicated	4	For a laptop that’s light, thin and fast. 
+238	adjudicated	4	Intelligence for tomorrow, today.
+239	adjudicated	4	Truly professional.
+240	adjudicated	3	The best ice cream you'll ever taste.
+241	adjudicated	2	Is it live, or is it Memorex?
+242	adjudicated	3	Old Milwaukee. Taste as great as it's name.
+243	adjudicated	4	No Red Bull, no wings
+244	adjudicated	2	I am Canadian.
+245	adjudicated	3	Your flexible friend.
+246	adjudicated	3	Dew it To it.
+247	adjudicated	3	Never mind the mush.
+248	adjudicated	2	How good are we? Ask any of our passengers.
+249	adjudicated	3	Whatever makes you happy.
+250	adjudicated	3	So good, it must be Breyers.
+251	adjudicated	4	Take Courage.
+252	adjudicated	4	Not a drop is sold till it's seven years old.
+253	adjudicated	3	You've got to taste it to believe it. 
+254	adjudicated	3	Nike ID. Individually Designed.
+255	adjudicated	1	Creative Technologie.
+256	adjudicated	3	Just plain smart.
+257	adjudicated	4	A better way of travelling.
+258	adjudicated	4	Let's Live Life Better.
+259	adjudicated	4	Kahlua. Awaken the spirit.
+260	adjudicated	2	Airline of the South.
+261	adjudicated	1	America runs on Bulova time.
+262	adjudicated	2	The think tank.
+263	adjudicated	2	Know your history. Respect your elders.
+264	adjudicated	3	Sets the standard in mechanics tools.
+265	adjudicated	3	Pure Gold. From the heart of the Kootenays.  
+266	adjudicated	1	Come all the way up to KOOL.
+267	adjudicated	2	Let's go Krogering.
+268	adjudicated	3	Kumho. Way to go.
+269	adjudicated	4	If I wanted water, I would have asked for water.
+270	adjudicated	5	Any time. Anywhere. Any job. 
+271	adjudicated	4	Not as mild as you might think.
+272	adjudicated	1	Call for Philip Morris.
+273	adjudicated	2	Improving Home Improvement.
+274	adjudicated	4	Experience love at first sip.
+275	adjudicated	4	Made to last. 
+276	adjudicated	4	We’ll take you farther.
+277	adjudicated	1	Life is a bowl of Perry's.
+278	adjudicated	4	We might just be what you need.
+279	adjudicated	4	A change for the better.
+280	adjudicated	2	Cathay Pacific. The heart of Asia.
+281	adjudicated	3	Cooper. Don't give up a thing.
+282	adjudicated	3	Smoke Gets in Your Eyes.
+283	adjudicated	4	Fun. Fresh. Flavorful.
+284	adjudicated	3	Rugged Refinement for The Midsize Market.
+285	adjudicated	2	Don't give up the ship.
+286	adjudicated	3	The Man's Car.
+287	adjudicated	1	Peugeot 607. More feline than ever.
+288	adjudicated	1	Nothing's better on leaks than Luvs.
+289	adjudicated	2	Service nonstop.
+290	adjudicated	2	Living Improved Daily.
+291	adjudicated	2	Capture the classic spirit of Longines.
+292	adjudicated	3	Look. Feel. Do. Better.
+293	adjudicated	2	Dunkin’ Donuts Coffe: It’s happiness in a cup.
+294	adjudicated	3	Better every day.
+295	adjudicated	3	A to B, trouble free.
+296	adjudicated	4	Hertz puts you in the driver’s seat.
+297	adjudicated	2	Take sides. Clean with one side, finish with the softer side.  
+298	adjudicated	2	The Pampers nappy that pulls on like pants. 
+299	adjudicated	3	The Low Fares Airline.
+300	adjudicated	4	Luscious chocolate, crunchy hazelnut, crispy wafer and always in good taste.

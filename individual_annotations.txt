@@ -1,0 +1,500 @@
+1	Charles	2	"It's the Tea you can really Taste"
+1	JiHo	4	"It's the Tea you can really Taste"
+2	Charles	3	10 Years In Formula One The World Is Watching Us.
+2	JiHo	3	10 Years In Formula One The World Is Watching Us.
+3	Charles	4	100% juice for 100% kids.
+3	JiHo	2	100% juice for 100% kids.
+4	Charles	3	Thirst asks nothing more.
+4	JiHo	3	Thirst asks nothing more.
+5	Charles	2	 What's your flavor?
+5	JiHo	2	 What's your flavor?
+6	Charles	3	A good meal out deserves a great ketchup.
+6	JiHo	3	A good meal out deserves a great ketchup.
+7	Charles	3	Where the food’s as good as the root beer.
+7	JiHo	3	Where the food’s as good as the root beer.
+8	Charles	4	Refreshes the parts other beers cannot reach.
+8	JiHo	3	Refreshes the parts other beers cannot reach.
+9	Charles	2	The world's leading radial tyre. 
+9	JiHo	2	The world's leading radial tyre. 
+10	Charles	5	A diamond is forever.
+10	JiHo	5	A diamond is forever.
+11	Charles	5	Flavor like that, without the fat.
+11	JiHo	4	Flavor like that, without the fat.
+12	Charles	3	A Matter of Good Taste.
+12	JiHo	3	A Matter of Good Taste.
+13	Charles	3	We're All Family Here
+13	JiHo	3	We're All Family Here
+14	Charles	4	Growing and protecting your wealth.
+14	JiHo	4	Growing and protecting your wealth.
+15	Charles	2	From here, it's another world.
+15	JiHo	2	From here, it's another world.
+16	Charles	4	The Celebrity treatment.
+16	JiHo	4	The Celebrity treatment.
+17	Charles	2	Get the Abbey habit.
+17	JiHo	2	Get the Abbey habit.
+18	Charles	1	No ordinary old timer
+18	JiHo	2	No ordinary old timer
+19	Charles	2	Set it to the rhythm of your home.
+19	JiHo	2	Set it to the rhythm of your home.
+20	Charles	3	The national swimming suit.
+20	JiHo	3	The national swimming suit.
+21	Charles	3	All play. No work.
+21	JiHo	3	All play. No work.
+22	Charles	4	They’re magically delicious.
+22	JiHo	3	They’re magically delicious.
+23	Charles	3	Always Moving Forward.
+23	JiHo	3	Always Moving Forward.
+24	Charles	2	Real perfume for your car.
+24	JiHo	2	Real perfume for your car.
+25	Charles	3	America's most gifted whiskey.
+25	JiHo	3	America's most gifted whiskey.
+26	Charles	4	Made in the USA.
+26	JiHo	3	Made in the USA.
+27	Charles	3	"The Best Drink Created Worldwide"
+27	JiHo	3	"The Best Drink Created Worldwide"
+28	Charles	3	Have the life you want.
+28	JiHo	3	Have the life you want.
+29	Charles	2	Analytics for Digital World.
+29	JiHo	2	Analytics for Digital World.
+30	Charles	4	More than just flying.
+30	JiHo	4	More than just flying.
+31	Charles	2	Helpful Banking.
+31	JiHo	2	Helpful Banking.
+32	Charles	5	If it isn't Popsicle, it's just an ice pop.
+32	JiHo	4	If it isn't Popsicle, it's just an ice pop.
+33	Charles	3	The Finest Rum In The World.
+33	JiHo	3	The Finest Rum In The World.
+34	Charles	2	Aquafina. Purity guaranteed.
+34	JiHo	2	Aquafina. Purity guaranteed.
+35	Charles	2	Beauty in all its forms.
+35	JiHo	3	Beauty in all its forms.
+36	Charles	3	Asia's boutique airline - Exclusive Service to Exotic Gems.
+36	JiHo	3	Asia's boutique airline - Exclusive Service to Exotic Gems.
+37	Charles	2	Aflac insurance policies may help you with those expenses not covered by your major medical plan.
+37	JiHo	2	Aflac insurance policies may help you with those expenses not covered by your major medical plan.
+38	Charles	3	Ask the man who owns one.
+38	JiHo	3	Ask the man who owns one.
+39	Charles	4	Superior performance with a touch of elegance.
+39	JiHo	4	Superior performance with a touch of elegance.
+40	Charles	5	Australians wouldn't give a XXXX for anything else.
+40	JiHo	4	Australians wouldn't give a XXXX for anything else.
+41	Charles	3	Avaya. The Power of We.
+41	JiHo	3	Avaya. The Power of We.
+42	Charles	2	We're number two. We try harder.
+42	JiHo	2	We're number two. We try harder.
+43	Charles	1	The petillant table water.
+43	JiHo	1	The petillant table water.
+44	Charles	3	True professionals, true tools.
+44	JiHo	3	True professionals, true tools.
+45	Charles	3	The Pleasure Society.
+45	JiHo	3	The Pleasure Society.
+46	Charles	4	Think what we can do for you.
+46	JiHo	4	Think what we can do for you.
+47	Charles	3	Bankers to the Nation.
+47	JiHo	2	Bankers to the Nation.
+48	Charles	3	Reach for Greatness.
+48	JiHo	3	Reach for Greatness.
+49	Charles	2	Bayer works wonders.
+49	JiHo	2	Bayer works wonders.
+50	Charles	2	Yours is here.
+50	JiHo	2	Yours is here.
+51	Charles	4	The rarest of China's rare teas.
+51	JiHo	4	The rarest of China's rare teas.
+52	Charles	3	For a pura mind and pura body.
+52	JiHo	3	For a pura mind and pura body.
+53	Charles	3	Racing since 1911.
+53	JiHo	2	Racing since 1911.
+54	Charles	4	oney for every moment.
+54	JiHo	3	oney for every moment.
+55	Charles	4	Glides on and blends easily. Ophthalmologist tested. Smudger included. 
+55	JiHo	4	Glides on and blends easily. Ophthalmologist tested. Smudger included. 
+56	Charles	5	Unmistakable German Craftsmanship
+56	JiHo	3	Unmistakable German Craftsmanship
+57	Charles	3	Introducing the Design Library–Ideas, Inspiration, Style.
+57	JiHo	3	Introducing the Design Library–Ideas, Inspiration, Style.
+58	Charles	3	Live a little.  
+58	JiHo	3	Live a little.  
+59	Charles	4	Real town. Real cheese.
+59	JiHo	4	Real town. Real cheese.
+60	Charles	4	The jeans that built America.
+60	JiHo	4	The jeans that built America.
+61	Charles	2	The world's warmest welcome.
+61	JiHo	3	The world's warmest welcome.
+62	Charles	3	Classic Italian cheese made in the USA.
+62	JiHo	3	Classic Italian cheese made in the USA.
+63	Charles	3	Because you love to sew.
+63	JiHo	3	Because you love to sew.
+64	Charles	4	Travel in good company.
+64	JiHo	4	Travel in good company.
+65	Charles	4	Peace, love & ice cream.
+65	JiHo	4	Peace, love & ice cream.
+66	Charles	3	Creating your world.
+66	JiHo	3	Creating your world.
+67	Charles	4	Fire on all cylinders. All day.
+67	JiHo	4	Fire on all cylinders. All day.
+68	Charles	3	Play. Laugh. Grow.
+68	JiHo	3	Play. Laugh. Grow.
+69	Charles	2	Best under the Australian sky
+69	JiHo	2	Best under the Australian sky
+70	Charles	3	No one can eat just one.
+70	JiHo	3	No one can eat just one.
+71	Charles	5	Hear The Radio That Woke Up An Entire Industry.
+71	JiHo	4	Hear The Radio That Woke Up An Entire Industry.
+72	Charles	5	Between love and madness lies obsession.
+72	JiHo	5	Between love and madness lies obsession.
+73	Charles	3	Big Brands. Small Prices.
+73	JiHo	3	Big Brands. Small Prices.
+74	Charles	3	Gets everywhere. Does everything!
+74	JiHo	3	Gets everywhere. Does everything!
+75	Charles	1	A silly millimeter longer.
+75	JiHo	1	A silly millimeter longer.
+76	Charles	2	The Cream of Manchester.
+76	JiHo	2	The Cream of Manchester.
+77	Charles	2	The new standard for the world.
+77	JiHo	3	The new standard for the world.
+78	Charles	4	Keep your car fresh.
+78	JiHo	3	Keep your car fresh.
+79	Charles	4	The easy come easy go airport.
+79	JiHo	4	The easy come easy go airport.
+80	Charles	5	First you drive it. Then it drives you.
+80	JiHo	5	First you drive it. Then it drives you.
+81	Charles	3	It deserves a little respect.
+81	JiHo	3	It deserves a little respect.
+82	Charles	3	A taste too good to waste.
+82	JiHo	4	A taste too good to waste.
+83	Charles	2	Performance. Power. Reliability.
+83	JiHo	4	Performance. Power. Reliability.
+168	Andy	2	Let the taste take you away. 
+168	Charles	3	Let the taste take you away. 
+169	Andy	5	Shoes you can live in.
+169	Charles	4	Shoes you can live in.
+170	Andy	3	Carabao Dang: The Fighting Spirit.
+170	Charles	3	Carabao Dang: The Fighting Spirit.
+171	Andy	1	If you think all cruises are the same, it’s time to try Freestyle Cruising.
+171	Charles	2	If you think all cruises are the same, it’s time to try Freestyle Cruising.
+172	Andy	2	The tea with more ahhhh.
+172	Charles	3	The tea with more ahhhh.
+173	Andy	4	A language you both understand.
+173	Charles	2	A language you both understand.
+174	Andy	3	From a Savory beginning to a Sweet ending.
+174	Charles	3	From a Savory beginning to a Sweet ending.
+175	Andy	4	The simpler the better.
+175	Charles	3	The simpler the better.
+176	Andy	2	Uninhibited. 
+176	Charles	2	Uninhibited. 
+177	Andy	2	Write your own High Seas adventure.
+177	Charles	2	Write your own High Seas adventure.
+178	Andy	2	Gas and Beyond.
+178	Charles	3	Gas and Beyond.
+179	Andy	1	A positive a++itude
+179	Charles	3	A positive a++itude
+180	Andy	4	Fashion is nothing without people.
+180	Charles	3	Fashion is nothing without people.
+181	Andy	1	Spring is here. See what’s new for girls at gapkids.com
+181	Charles	1	Spring is here. See what’s new for girls at gapkids.com
+182	Andy	3	Get the good stuff first.
+182	Charles	3	Get the good stuff first.
+183	Andy	4	Single source of inspiration.
+183	Charles	3	Single source of inspiration.
+184	Andy	4	Diesel. For Successful Living.
+184	Charles	4	Diesel. For Successful Living.
+185	Andy	5	The rewards of ownership.
+185	Charles	4	The rewards of ownership.
+186	Andy	4	Reporting from around the world.
+186	Charles	3	Reporting from around the world.
+187	Andy	2	Our Prime Interest Is You!
+187	Charles	5	Our Prime Interest Is You!
+188	Andy	5	Journeys are made by people you travel with.
+188	Charles	5	Journeys are made by people you travel with.
+189	Andy	4	Good Humor. Return to the classics.
+189	Charles	5	Good Humor. Return to the classics.
+190	Andy	1	Good, better, Paulaner.
+190	Charles	1	Good, better, Paulaner.
+191	Andy	1	Go for a Gordon's.
+191	Charles	3	Go for a Gordon's.
+192	Andy	2	The New Jag Generation.
+192	Charles	2	The New Jag Generation.
+193	Andy	5	For the whole family.
+193	Charles	3	For the whole family.
+194	Andy	2	Gotta get to Garts!
+194	Charles	4	Gotta get to Garts!
+195	Andy	4	Would you say no to another?
+195	Charles	4	Would you say no to another?
+196	Andy	2	Greggs. Ready when you are.
+196	Charles	2	Greggs. Ready when you are.
+197	Andy	4	Grip it. Tip it. Sip it.
+197	Charles	5	Grip it. Tip it. Sip it.
+198	Andy	5	Trust the natives.
+198	Charles	4	Trust the natives.
+199	Andy	1	Kenco Really Smooth. Everything we know about ground coffee in an instant.
+199	Charles	2	Kenco Really Smooth. Everything we know about ground coffee in an instant.
+200	Andy	3	Made for movies. 
+200	Charles	3	Made for movies. 
+201	Andy	2	Get a little extra help from the Halifax.
+201	Charles	2	Get a little extra help from the Halifax.
+202	Andy	4	Creating the right chemistry between you and the road.
+202	Charles	3	Creating the right chemistry between you and the road.
+203	Andy	4	Fit you... Fit your job.
+203	Charles	3	Fit you... Fit your job.
+204	Andy	2	Legend of American roads.  
+204	Charles	2	Legend of American roads.  
+205	Andy	4	To each his burger.
+205	Charles	4	To each his burger.
+206	Andy	3	Gimme a break, Gimme a break, Break me off a piece of that Kit Kat Bar!, Break time, anytime. 
+206	Charles	3	Gimme a break, Gimme a break, Break me off a piece of that Kit Kat Bar!, Break time, anytime. 
+207	Andy	4	Sometimes you’ve got to break the rules.
+207	Charles	4	Sometimes you’ve got to break the rules.
+208	Andy	1	It's at times like this that Metlife sets itself apart.
+208	Charles	2	It's at times like this that Metlife sets itself apart.
+209	Andy	2	What would the world be like without Nutella. 
+209	Charles	3	What would the world be like without Nutella. 
+210	Andy	4	The Amber Nectar
+210	Charles	4	The Amber Nectar
+211	Andy	4	A breath of fresh air for your hair. 
+211	Charles	4	A breath of fresh air for your hair. 
+212	Andy	3	#1 selling anti-wrinkle cream.
+212	Charles	5	#1 selling anti-wrinkle cream.
+213	Andy	3	Exceptional phone. Exceptional price 
+213	Charles	5	Exceptional phone. Exceptional price 
+214	Andy	2	New ideas at work.
+214	Charles	2	New ideas at work.
+215	Andy	4	Preferred by 1 out of 1000 gin drinkers.
+215	Charles	3	Preferred by 1 out of 1000 gin drinkers.
+216	Andy	3	Hennessy XO. The one and only original.
+216	Charles	3	Hennessy XO. The one and only original.
+217	Andy	2	Kids will do anything for the taste of Dairylea
+217	Charles	2	Kids will do anything for the taste of Dairylea
+218	Andy	2	We know what it takes to be a Tiger.
+218	Charles	3	We know what it takes to be a Tiger.
+219	Andy	4	Quality, never compromised.
+219	Charles	4	Quality, never compromised.
+220	Andy	3	Holds on to the past.
+220	Charles	3	Holds on to the past.
+221	Andy	3	How about a nice Hawaiian Punch?
+221	Charles	3	How about a nice Hawaiian Punch?
+222	Andy	4	Finding newer, cleaner ways to power the world.
+222	Charles	4	Finding newer, cleaner ways to power the world.
+223	Andy	3	Hungry for life. Thirsty for Naya.
+223	Charles	3	Hungry for life. Thirsty for Naya.
+224	Andy	2	Brrr.Mmmm.
+224	Charles	1	Brrr.Mmmm.
+225	Andy	2	The Six Dollar Burger.
+225	Charles	4	The Six Dollar Burger.
+226	Andy	2	If you doubt yourself, wear something else!
+226	Charles	3	If you doubt yourself, wear something else!
+227	Andy	5	Answer the call to any adventure.
+227	Charles	4	Answer the call to any adventure.
+228	Andy	5	Everything you always wanted in a beer. And less.  
+228	Charles	5	Everything you always wanted in a beer. And less.  
+229	Andy	3	Making your house a home for over 100 years.
+229	Charles	4	Making your house a home for over 100 years.
+230	Andy	4	Put Your Spin on It.
+230	Charles	4	Put Your Spin on It.
+231	Andy	2	Believe in 5ive. 
+231	Charles	2	Believe in 5ive. 
+232	Andy	3	Inspire the Next.
+232	Charles	3	Inspire the Next.
+233	Andy	3	Inspired Living.
+233	Charles	4	Inspired Living.
+234	Andy	2	The utterly elegant cabriolet coupe Perfectly sculpted coupe with clamshell roof 
+234	Charles	2	The utterly elegant cabriolet coupe Perfectly sculpted coupe with clamshell roof 
+235	Andy	5	For those finer moments.
+235	Charles	4	For those finer moments.
+236	Andy	3	For all that's ahead.
+236	Charles	3	For all that's ahead.
+237	Andy	4	For a laptop that’s light, thin and fast. 
+237	Charles	4	For a laptop that’s light, thin and fast. 
+238	Andy	4	Intelligence for tomorrow, today.
+238	Charles	4	Intelligence for tomorrow, today.
+239	Andy	4	Truly professional.
+239	Charles	4	Truly professional.
+240	Andy	3	The best ice cream you'll ever taste.
+240	Charles	3	The best ice cream you'll ever taste.
+241	Andy	2	Is it live, or is it Memorex?
+241	Charles	2	Is it live, or is it Memorex?
+242	Andy	3	Old Milwaukee. Taste as great as it's name.
+242	Charles	3	Old Milwaukee. Taste as great as it's name.
+243	Andy	4	No Red Bull, no wings
+243	Charles	4	No Red Bull, no wings
+244	Andy	2	I am Canadian.
+244	Charles	4	I am Canadian.
+245	Andy	3	Your flexible friend.
+245	Charles	3	Your flexible friend.
+246	Andy	3	Dew it To it.
+246	Charles	5	Dew it To it.
+247	Andy	3	Never mind the mush.
+247	Charles	3	Never mind the mush.
+248	Andy	2	How good are we? Ask any of our passengers.
+248	Charles	2	How good are we? Ask any of our passengers.
+249	Andy	3	Whatever makes you happy.
+249	Charles	3	Whatever makes you happy.
+250	Andy	3	So good, it must be Breyers.
+250	Charles	3	So good, it must be Breyers.
+251	Andy	4	Take Courage.
+251	Charles	3	Take Courage.
+335	JiHo	4	Now Everyone Can Fly.
+335	Andy	4	Now Everyone Can Fly.
+336	JiHo	4	Its our business to know your business.
+336	Andy	2	Its our business to know your business.
+337	JiHo	3	Now You're Flying Smart.
+337	Andy	3	Now You're Flying Smart.
+338	JiHo	3	The brand trusted around the world.
+338	Andy	3	The brand trusted around the world.
+339	JiHo	5	Omega – Exact time for life
+339	Andy	3	Omega – Exact time for life
+340	JiHo	4	Other potato chips just don't stack up.
+340	Andy	3	Other potato chips just don't stack up.
+341	JiHo	3	One client at a time.
+341	Andy	4	One client at a time.
+342	JiHo	3	HB. Two letters spell Ireland's favourite ice cream.
+342	Andy	2	HB. Two letters spell Ireland's favourite ice cream.
+343	JiHo	3	One size does not fit all. To each her own.
+343	Andy	2	One size does not fit all. To each her own.
+344	JiHo	3	Only a Few Can Tell.
+344	Andy	3	Only a Few Can Tell.
+345	JiHo	3	Take it Easy.
+345	Andy	4	Take it Easy.
+346	JiHo	3	Get more out of plastic.
+346	Andy	2	Get more out of plastic.
+347	JiHo	4	Only Smarties Have the Answer.
+347	Andy	4	Only Smarties Have the Answer.
+348	JiHo	4	Don’t get mad! Get Glad!
+348	Andy	4	Don’t get mad! Get Glad!
+349	JiHo	3	The power toothbrush more dentists use.
+349	Andy	4	The power toothbrush more dentists use.
+350	JiHo	3	Ore-Ida! It’s all-righta!
+350	Andy	4	Ore-Ida! It’s all-righta!
+351	JiHo	4	Quality never goes out of style.
+351	Andy	5	Quality never goes out of style.
+352	JiHo	3	The freshest ice cream on earth.
+352	Andy	3	The freshest ice cream on earth.
+353	JiHo	3	Our business is the American dream.
+353	Andy	3	Our business is the American dream.
+354	JiHo	2	Is it as good as Bushells?
+354	Andy	1	Is it as good as Bushells?
+355	JiHo	5	ABSOLUT PERFECTION. In An Absolut World.
+355	Andy	5	ABSOLUT PERFECTION. In An Absolut World.
+356	JiHo	4	Guinness is Good for You.
+356	Andy	4	Guinness is Good for You.
+357	JiHo	3	Helping investors help themselves
+357	Andy	3	Helping investors help themselves
+358	JiHo	4	Love that Chicken!
+358	Andy	2	Love that Chicken!
+359	JiHo	3	Passion for the road.
+359	Andy	3	Passion for the road.
+360	JiHo	3	Past meets present.
+360	Andy	3	Past meets present.
+361	JiHo	4	CONSULTING. TECHNOLOGY. OUTSOURCING.
+361	Andy	4	CONSULTING. TECHNOLOGY. OUTSOURCING.
+362	JiHo	5	Performance Is In Our Sole.
+362	Andy	5	Performance Is In Our Sole.
+363	JiHo	3	Perrier. The ultimate refreshment.
+363	Andy	2	Perrier. The ultimate refreshment.
+364	JiHo	4	Feel the creative energy.
+364	Andy	3	Feel the creative energy.
+365	JiHo	2	Piggly Wiggly. Feeds your life.
+365	Andy	2	Piggly Wiggly. Feeds your life.
+366	JiHo	3	When you're choosing cheddar, make it Pilgrims Choice.
+366	Andy	2	When you're choosing cheddar, make it Pilgrims Choice.
+367	JiHo	4	Pure pleasure…
+367	Andy	4	Pure pleasure…
+368	JiHo	4	Everyone’s taking sides.
+368	Andy	4	Everyone’s taking sides.
+369	JiHo	3	Porter-Cable. Redefining performance.
+369	Andy	3	Porter-Cable. Redefining performance.
+370	JiHo	4	Power, beauty and soul.
+370	Andy	4	Power, beauty and soul.
+371	JiHo	3	Powered by Intellect, Driven by Values.
+371	Andy	3	Powered by Intellect, Driven by Values.
+372	JiHo	3	Probably the Best Beer in the World.
+372	Andy	2	Probably the Best Beer in the World.
+373	JiHo	3	Accuracy to seconds a month.
+373	Andy	4	Accuracy to seconds a month.
+374	JiHo	3	Pure chocolate. Pure emotion.
+374	Andy	3	Pure chocolate. Pure emotion.
+375	JiHo	3	Pure clean, pure Ivory.
+375	Andy	2	Pure clean, pure Ivory.
+376	JiHo	3	Put more flavour in your life.
+376	Andy	3	Put more flavour in your life.
+377	JiHo	2	Let us quote you happy.
+377	Andy	3	Let us quote you happy.
+378	JiHo	3	Real Friends. Real Bourbon.
+378	Andy	4	Real Friends. Real Bourbon.
+379	JiHo	3	Redefining standards.
+379	Andy	5	Redefining standards.
+380	JiHo	3	Tastes so good, you won't have to pretend anymore.
+380	Andy	2	Tastes so good, you won't have to pretend anymore.
+381	JiHo	2	Decide for yourself.
+381	Andy	2	Decide for yourself.
+382	JiHo	3	Relax, it’s Holiday Inn.
+382	Andy	2	Relax, it’s Holiday Inn.
+383	JiHo	3	Ride with Pride.
+383	Andy	4	Ride with Pride.
+384	JiHo	2	Right of Common Man.
+384	Andy	3	Right of Common Man.
+385	JiHo	4	In Search of Incredible. 
+385	Andy	5	In Search of Incredible. 
+386	JiHo	3	Sapphire Inspired.
+386	Andy	3	Sapphire Inspired.
+387	JiHo	1	Sar utha ke jiyo!
+387	Andy	1	Sar utha ke jiyo!
+388	JiHo	3	It's a new morning. Brew some good.
+388	Andy	2	It's a new morning. Brew some good.
+389	JiHo	4	Performance, not promises.
+389	Andy	4	Performance, not promises.
+390	JiHo	4	Excellence for Everyone
+390	Andy	4	Excellence for Everyone
+391	JiHo	3	See what the future has in store.
+391	Andy	3	See what the future has in store.
+392	JiHo	3	We have all the best stories.
+392	Andy	5	We have all the best stories.
+393	JiHo	3	Let's Make Things Better.
+393	Andy	2	Let's Make Things Better.
+394	JiHo	3	Share a Scoop. Share a Smile!
+394	Andy	3	Share a Scoop. Share a Smile!
+395	JiHo	4	Share moments. Share life.
+395	Andy	4	Share moments. Share life.
+396	JiHo	3	Share Photos. Make friends. It’s easy!
+396	Andy	2	Share Photos. Make friends. It’s easy!
+397	JiHo	5	Shoes designed to move you.
+397	Andy	5	Shoes designed to move you.
+398	JiHo	2	Sincerely yours, Aeroflot
+398	Andy	1	Sincerely yours, Aeroflot
+399	JiHo	3	Sit. Savour. 1664.
+399	Andy	3	Sit. Savour. 1664.
+400	JiHo	3	We have the meats.
+400	Andy	3	We have the meats.
+401	JiHo	1	Slogan
+401	Andy	1	Slogan
+402	JiHo	2	The original. If your grandfather hadn't worn it, you wouldn't exist.
+402	Andy	4	The original. If your grandfather hadn't worn it, you wouldn't exist.
+403	JiHo	3	So comfortable you can’t even feel them.
+403	Andy	4	So comfortable you can’t even feel them.
+404	JiHo	2	So easy a caveman can do it.
+404	Andy	2	So easy a caveman can do it.
+405	JiHo	4	We Live To Deliver. 
+405	Andy	4	We Live To Deliver. 
+406	JiHo	4	A sound mind in a sound body.
+406	Andy	3	A sound mind in a sound body.
+407	JiHo	3	So have you had milk today?
+407	Andy	3	So have you had milk today?
+408	JiHo	4	Runs faster. Costs less. And never breaks.
+408	Andy	4	Runs faster. Costs less. And never breaks.
+409	JiHo	4	Something better everyday.
+409	Andy	4	Something better everyday.
+410	JiHo	4	Let your tastes travel.
+410	Andy	4	Let your tastes travel.
+411	JiHo	4	Strength With Age.
+411	Andy	4	Strength With Age.
+412	JiHo	3	Lucozade aids recovery.
+412	Andy	3	Lucozade aids recovery.
+413	JiHo	3	Better Banking. Proven Service.
+413	Andy	3	Better Banking. Proven Service.
+414	JiHo	4	Sweep up the savings.
+414	Andy	4	Sweep up the savings.
+415	JiHo	3	Awaken the mystery.
+415	Andy	4	Awaken the mystery.
+416	JiHo	2	Take n’ Bake Pizza.
+416	Andy	1	Take n’ Bake Pizza.
+417	JiHo	4	Take your hair to paradise.
+417	Andy	3	Take your hair to paradise.

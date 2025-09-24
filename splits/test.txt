@@ -1,0 +1,100 @@
+401	adjudicated	1	Slogan
+402	adjudicated	3	The original. If your grandfather hadn't worn it, you wouldn't exist.
+403	adjudicated	3	So comfortable you can’t even feel them.
+404	adjudicated	2	So easy a caveman can do it.
+405	adjudicated	4	We Live To Deliver. 
+406	adjudicated	4	A sound mind in a sound body.
+407	adjudicated	3	So have you had milk today?
+408	adjudicated	4	Runs faster. Costs less. And never breaks.
+409	adjudicated	4	Something better everyday.
+410	adjudicated	4	Let your tastes travel.
+411	adjudicated	4	Strength With Age.
+412	adjudicated	3	Lucozade aids recovery.
+413	adjudicated	3	Better Banking. Proven Service.
+414	adjudicated	4	Sweep up the savings.
+415	adjudicated	3	Awaken the mystery.
+416	adjudicated	2	Take n’ Bake Pizza.
+417	adjudicated	4	Take your hair to paradise.
+418	adjudicated	3	Taking care of what’s important.
+419	adjudicated	4	Taste life. Pure Filtered.
+420	adjudicated	4	World-famous, because it is so good.
+421	adjudicated	2	That frosty mug sensation.
+422	adjudicated	4	You’re Going To Get Your Wish. Go Fish.
+423	adjudicated	4	Accelerate your soul. 
+424	adjudicated	2	The art and science of pure flower and plant essences.
+425	adjudicated	2	The bane of your foot’s existence.
+426	adjudicated	2	The Beer so Good it's Bad.
+427	adjudicated	3	The Best a Man Can Get.
+428	adjudicated	2	We eat all we can and sell the rest.
+429	adjudicated	4	The best part of wakin' up... is Folgers in your cup.
+430	adjudicated	4	The Card That Pays You Back. It pays to Discover.
+431	adjudicated	3	Expect the unexpected.
+432	adjudicated	3	Austrian. Like a smile in the sky.
+433	adjudicated	4	The Citi never sleeps.
+434	adjudicated	3	Ding-Dong - Avon Calling
+435	adjudicated	2	The cow says Eat Mor Chikin!
+436	adjudicated	3	The customer is always and completly right.
+437	adjudicated	4	Think ever green.
+438	adjudicated	3	Coffee indulgence.
+439	adjudicated	4	Say it with flowers.
+440	adjudicated	4	KLM, A Journey of Inspiration.  
+441	adjudicated	4	The fun develops instantly.
+442	adjudicated	4	Hello happy. Hello Hershey's.
+443	adjudicated	3	The happiest place on earth.
+444	adjudicated	4	Ace is the place with the helpful hardware man.
+445	adjudicated	4	The highest standard. Yours.
+446	adjudicated	3	The World’s most refreshing airline.
+447	adjudicated	3	The king of beers.
+448	adjudicated	3	Feel like a person, not a passenger.
+449	adjudicated	3	The last great hamburger stand.
+450	adjudicated	4	The Legend Continues. Is it in you?
+451	adjudicated	3	The multivitamin with more for your health.
+452	adjudicated	4	Fly the American Way.
+453	adjudicated	3	Your money at home and abroad.
+454	adjudicated	3	The official uniform of New York.
+455	adjudicated	3	The Perfect Experience.
+456	adjudicated	4	The perfect place to start your journey. We'll take you there.
+457	adjudicated	3	The possibilities are infinite shaping tomorrow with you.
+458	adjudicated	3	The Power of Dreams.
+459	adjudicated	3	Go stronger for longer.
+460	adjudicated	4	Movement that inspires
+461	adjudicated	4	If it’s important to you, it’s important to Plymouth.
+462	adjudicated	3	Lavazza. Espress yourself.
+463	adjudicated	4	British Airways. To fly. To serve..
+464	adjudicated	4	The relentless pursuit of perfection.
+465	adjudicated	3	Precision crafted performance.
+466	adjudicated	4	Beauty is for everyone
+467	adjudicated	4	Exceptional by design
+468	adjudicated	3	The Spirit Of Australia.
+469	adjudicated	3	Great brands, great value.
+470	adjudicated	4	Home brewed taste.
+471	adjudicated	4	Sheer Driving Pleasure.
+472	adjudicated	3	The Ultimate Off-Road Adventure.
+473	adjudicated	1	The white one is useless.
+474	adjudicated	3	The wings of Kilimanjaro.
+475	adjudicated	3	The World’s Local Bank.
+476	adjudicated	3	Reinvent Yourself
+477	adjudicated	3	There is No Substitute.
+478	adjudicated	3	There’s a hero in everyone. 
+479	adjudicated	4	There's no clean like Mr. Clean.
+480	adjudicated	5	Huggies. We got you, baby
+481	adjudicated	3	You get a lovely lot of Quavers in a bag.
+482	adjudicated	5	THINK.
+483	adjudicated	4	Nothing sucks like an Electrolux.
+484	adjudicated	5	The king of rums, and the rum of kings
+485	adjudicated	3	The Curious Bank.
+486	adjudicated	3	This is the Chivas Life.
+487	adjudicated	3	Way more than a cruise
+488	adjudicated	3	Cuddle your feet
+489	adjudicated	3	Together We Can.
+490	adjudicated	3	Be Bullish.
+491	adjudicated	3	Nextel. Done.
+492	adjudicated	3	It's the Marriott way.
+493	adjudicated	4	Take me to the Hilton.
+494	adjudicated	3	Travel assertively luxuriously powerfully boldly well.
+495	adjudicated	1	Trusted Family Bank
+496	adjudicated	4	Because you want your first impression to be the right impression.
+497	adjudicated	4	Coors Light, it's as cold as the Rockies.
+498	adjudicated	3	Un Peu d’Air sur Terre.
+499	adjudicated	3	Uniquely yours.
+500	adjudicated	4	The solution is Key.
